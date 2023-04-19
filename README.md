@@ -1,30 +1,36 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios do LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 7<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/2023903  | Lucas Lopes Rocha |
+| 20/2023681  | Gabriel da Silva Rosa |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos. Os exercícios foram retirados do site [LeetCode](https://leetcode.com/tag/graph/).
+
+### Exercício 1
+**Nome:** XXX <br>
+**Nível:** Médio <br>
+**Descrição:** XXX <br>
+
+### Exercício 2
+**Nome:** XXX <br>
+**Nível:** Médio <br>
+**Descrição:** XXX <br>
+
+### Exercício 3
+**Nome:** XXX <br>
+**Nível:** Médio <br>
+**Descrição:** XXX <br>
+
+### Exercício 4
+**Nome:** XXX <br>
+**Nível:** Médio <br>
+**Descrição:** XXX <br>
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
