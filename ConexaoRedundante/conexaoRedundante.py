@@ -45,3 +45,12 @@ class Solution:
             if v == cycle[0] and u == cycle[1]:
                 return [u, v]
         return cycle
+
+"""
+Explicando a solução:
+
+1. Criamos um grafo dirigido a partir da lista de arestas e inicializamos uma variável cycle como None.
+2. Definimos uma função auxiliar dfs que realiza a busca em profundidade e verifica se um ciclo é detectado durante a travessia.
+3. Para cada nó no grafo, se o nó ainda não foi visitado, chamamos a função dfs para verificar se há um ciclo presente no gráfico.
+4. Retornamos a última aresta no ciclo, se houver um ciclo, caso contrário, retorna None.
+"""
