@@ -10,42 +10,41 @@
 | 20/2023681  | Gabriel da Silva Rosa |
 
 ## Sobre 
-Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos. Os exercícios foram retirados do site [LeetCode](https://leetcode.com/tag/graph/).
+Este projeto se trata da resolução de 5 exercícios abordando o tema de Grafos. Os exercícios foram retirados do site [LeetCode](https://leetcode.com/tag/graph/).
 
 ### Exercício 1
-**Nome:** XXX <br>
-**Nível:** Médio <br>
-**Descrição:** XXX <br>
+**Nome:** Número de Províncias<br>
+**Código:** [ACESSO](NumeroProvincias/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/number-of-provinces/)<br>
+
 
 ### Exercício 2
-**Nome:** XXX <br>
-**Nível:** Médio <br>
-**Descrição:** XXX <br>
+**Nome:** Verificação de Grafo Bipartido<br>
+**Código:** [ACESSO](GrafoBipartido/)<br>
+**Página LeetCode:** [ACESSO]()<br>
 
 ### Exercício 3
-**Nome:** XXX <br>
-**Nível:** Médio <br>
-**Descrição:** XXX <br>
+**Nome:** Número de Operações para Tornar a Rede Conectada<br>
+**Código:** [ACESSO](RedeConectada/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)<br>
 
 ### Exercício 4
-**Nome:** XXX <br>
-**Nível:** Médio <br>
-**Descrição:** XXX <br>
+**Nome:** Conexão Redundante II<br>
+**Código:** [ACESSO](ConexaoRedundante/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/redundant-connection-ii/)<br>
+
+### Exercício 5
+**Nome:** <br>
+**Código:** [ACESSO]()<br>
+**Página LeetCode:** [ACESSO]()<br>
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Python3<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
