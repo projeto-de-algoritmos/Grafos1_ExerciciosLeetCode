@@ -21,7 +21,7 @@ Este projeto se trata da resolução de 5 exercícios abordando o tema de Grafos
 ### Exercício 2
 **Nome:** Verificação de Grafo Bipartido<br>
 **Código:** [ACESSO](GrafoBipartido/)<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/is-graph-bipartite/)<br>
 
 ### Exercício 3
 **Nome:** Número de Operações para Tornar a Rede Conectada<br>
