@@ -1,4 +1,6 @@
-# Verificação de Grafo Bipartido
+# [Verificação de Grafo Bipartido](https://leetcode.com/problems/is-graph-bipartite/)
+
+**Nível: Médio**
 
 Existe um grafo não direcionado com `n` nós, onde cada nó é numerado entre 0 e n - 1. É fornecido um array 2D chamado de "graph", onde `graph[u]` é um array de nós aos quais o nó `u` é adjacente. De forma mais formal, para cada `v` em `graph[u]`, existe uma aresta não direcionada entre o nó `u` e o nó `v`. O grafo possui as seguintes propriedades:
 
