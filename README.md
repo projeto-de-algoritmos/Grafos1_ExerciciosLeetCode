@@ -33,8 +33,8 @@ Este projeto se trata da resolução de 5 exercícios abordando o tema de Grafos
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/redundant-connection-ii/)<br>
 
 ### Exercício 5
-**Nome:** Todos os caminhos do início ao fim<br>
-**Código:** [ACESSO](TodosOsCaminhosDoInicioAoFim/)<br>
+**Nome:** Todos os Caminhos do Início ao Fim<br>
+**Código:** [ACESSO](TodosOsCaminhosDoInícioAoFim/)<br>
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/all-paths-from-source-to-target/)<br>
 
 ## Screenshots
