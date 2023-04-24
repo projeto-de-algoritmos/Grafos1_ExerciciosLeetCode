@@ -38,7 +38,12 @@ Este projeto se trata da resolução de 5 exercícios abordando o tema de Grafos
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/all-paths-from-source-to-target/)<br>
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![Exercicio1](assets/exer1.png)
+![Exercicio2](assets/exer2.png)
+![Exercicio3](assets/exer3.png)
+![Exercicio4](assets/exer4.png)
+![Exercicio5](assets/exer5.png)
 
 ## Instalação 
 **Linguagem**: Python3<br>
@@ -67,3 +72,9 @@ Assim que executado, verifique os resultados e se o código resolve o exercício
 
 ### Repetir o processo
 Repita o processo para cada um dos 5 exercícios resolvidos.
+
+## Outros
+
+**Vídeo da Apresentação (GitHub):** [ACESSO](videoApresentacao.mp4)
+
+**Vídeo da Apresentação (Youtube):** [ACESSO](https://youtu.be/9IVYXy-18JY)
